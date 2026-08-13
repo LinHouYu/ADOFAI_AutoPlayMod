@@ -40,6 +40,8 @@
 https://github.com/user-attachments/assets/c06c3453-937b-4a63-a726-fc0c4238d370
 
 ---
+## 视频教学
+想要动手试试看嘛？点击这里 【【硬核干货】遇到报错怎么办？教你从底层暴力开启《冰与火之舞》官方全自动外挂！】 https://www.bilibili.com/video/BV1neuf64EY9/?share_source=copy_web&vd_source=af1b836b3dccf648b1eeecc5e9541b1e
 
 ## 🙏 鸣谢 (Acknowledgments)
 
