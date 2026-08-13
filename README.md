@@ -1,0 +1,2 @@
+# ADOFAI_AutoPlayMod
+
